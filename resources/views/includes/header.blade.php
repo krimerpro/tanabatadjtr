@@ -10,7 +10,7 @@
       <?php
         if($agent->isMobile()){
       ?>
-            <h4 style="margin:auto">Dejitaru Ryujin</h4>
+            <h4 style="margin:auto">Dejitaru Tanabata</h4>
       <?php
           }
       ?>
@@ -22,19 +22,9 @@
                 if(!$agent->isMobile()){
               ?>
                   <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                      <a class="nav-link" href="/" style="color:black;font-size:large">Dejitaru RyuJin</a>
+                      <a class="nav-link" href="/" style="color:black;font-size:large">Dejitaru Tanabata</a>
                   </li>
               <?php } ?>
-
-              <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="#head-area" style="color:black;font-size:large">Home</a>
-              </li>
-              <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="#tokenomics" style="color:black;font-size:large">Tokenomics</a>
-              </li>
-              <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.5s">
-                  <a class="nav-link" href="#roadmap" style="color:black;font-size:large">Roadmap</a>
-              </li>
           </ul>
           <span id="slide-line"></span>
           <!-- <form class="form-inline mt-2 mt-md-0 text-right" style="margin-left:auto">
