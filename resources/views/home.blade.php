@@ -18,12 +18,12 @@
                          <img src="{{ asset('images/logo.png') }}" style="width:40%;height:40%;display: block;margin-left: auto;margin-right: auto">
                       </div>
 
-                        <h1 class="best-template animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.5s" style="color:white;margin-top:20px">Smart advertising for the crypto industry</h1>
-                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:white">We are creating products that combine cutting-edge technologies for a better now</h5>
+                        <h1 class="best-template animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.5s" style="color:white;margin-top:20px">Dragon King $RyuJin, is One of the Best Dragon Mythology</h1>
+                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:white">RyuJin Will Rule the World!</h5>
                         <div class="mt-5 text-center">
-                          <a href="{{ asset('/documents/whitepaper.pdf') }}" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">WHITEPAPER</a>
-                          <a href="https://t.me/XProtocolPortal" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">TG OFFICIAL</a>
-                          <a href="https://poocoin.app/tokens/0x31226A85eb4fA7B26102c982265792bE98352303" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">CHART</a>
+                          <a href="https://medium.com/@JamesErc/dejitaru-ryujin-8c42bb7fd134" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">MEDIUM</a>
+                          <a href="https://t.me/DejitaruRyuJin" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">TG OFFICIAL</a>
+                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">CHART</a>
                         </div>
                     </div>
                 </div>
@@ -33,26 +33,6 @@
 </div>
 </section>
 <!--/ Header: 3D Animation -->
-
-<!-- Utility -->
-<section id="utility" class="roadmap section-padding">
-<div class="container">
-    <div class="heading text-center">
-        <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-            <h2 class="title" style="color:white">Upcoming Utility</h2>
-        </div>
-    </div>
-    <div class="row animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
-        <div class="row">
-            <div class="col-md-12 col-lg-12 text-center">
-                <img src="{{ asset('images/product.png') }}" style="width:45%;" >
-            </div>
-        </div>
-    </div>
-
-</div>
-</section>
-<!--/ Utility -->
 
 <!-- Tokenomics -->
 <section class="about section-padding" id="tokenomics">
@@ -66,13 +46,13 @@
         <div class="row">
             <div class="col-md-12 col-lg-12 text-center">
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
-                    <h3 style="font-size:16px">Token Symbol</h3>
-                    <h4 style="font-size:24px">XPT</h4>
+                    <h3 style="font-size:16px">Ticker</h3>
+                    <h4 style="font-size:24px">$RyuJin</h4>
                 </div>
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
-                    <h3 style="font-size:16px">Max Supply</h3>
-                    <h4 style="font-size:24px">1.000.000.000</h4>
+                    <h3 style="font-size:16px">Total Supply</h3>
+                    <h4 style="font-size:24px">100.000.000</h4>
                 </div>
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
@@ -82,22 +62,22 @@
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
                     <h3 style="font-size:16px">Tax</h3>
-                    <h4 style="font-size:24px">4% Buy | 4% Sell</h4>
+                    <h4 style="font-size:24px">3% Buy | 3% Sell</h4>
                 </div>
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
                     <h3 style="font-size:16px">Max Wallet</h3>
-                    <h4 style="font-size:24px">4%</h4>
+                    <h4 style="font-size:24px">5%</h4>
                 </div>
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
                     <h3 style="font-size:16px">Max Tx</h3>
-                    <h4 style="font-size:24px">4%</h4>
+                    <h4 style="font-size:24px">5%</h4>
                 </div>
 
                 <div style="margin-bottom:15px;">
                     <h3 style="font-size:16px">Initial LP</h3>
-                    <h4 style="font-size:24px">2 BNB + 96% Total Supply</h4>
+                    <h4 style="font-size:24px">1 WETH</h4>
                 </div>
             </div>
         </div>

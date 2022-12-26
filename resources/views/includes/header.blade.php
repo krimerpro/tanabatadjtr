@@ -10,7 +10,7 @@
       <?php
         if($agent->isMobile()){
       ?>
-            <h4 style="margin:auto">X PROTOCOL</h4>
+            <h4 style="margin:auto">Dejitaru Ryujin</h4>
       <?php
           }
       ?>
@@ -22,15 +22,12 @@
                 if(!$agent->isMobile()){
               ?>
                   <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                      <a class="nav-link" href="/" style="color:black;font-size:large">X PROTOCOL</a>
+                      <a class="nav-link" href="/" style="color:black;font-size:large">Dejitaru RyuJin</a>
                   </li>
               <?php } ?>
 
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
                   <a class="nav-link" href="#head-area" style="color:black;font-size:large">Home</a>
-              </li>
-              <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="#utility" style="color:black;font-size:large">Utility</a>
               </li>
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
                   <a class="nav-link" href="#tokenomics" style="color:black;font-size:large">Tokenomics</a>
