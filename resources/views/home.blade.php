@@ -22,8 +22,8 @@
                         <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:black">Dejitaru Tanabata</h5>
                         <div class="mt-5 text-center">
                           <a href="https://t.me/DejitaruTanabata" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">Telegram Group</a>
-                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xb52ea608ee53535d5f69ff686f354da512068c75" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">CHART</a>
-                          <a href="https://medium.com/@RenJhz/dejitaru-tanabata-799b200a69a4" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">MEDIUM</a>
+                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x4693eee8dad356068786de39e69421358fb6215a" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">CHART</a>
+                          <a href="https://medium.com/@RenJhz/dejitaru-tanabata-9f96f7b1e3d5" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">MEDIUM</a>
                         </div>
                     </div>
                 </div>
